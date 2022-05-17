@@ -1,0 +1,51 @@
+
+IF "need-sneakers" = ? AND "resut" = ? THEN "need-sneakers" = "ВОПРОС (do you need sneakers?)"
+
+IF "budget" = ? AND "resut" = ? THEN "budget" = "ВОПРОС (your budget?)"
+
+IF "winer" = ? AND "resut" = ? THEN "winer" = "ВОПРОС (will you wear it in winter?)"
+
+IF "summer" = ? AND "resut" = ? THEN "summer" = "ВОПРОС (will you wear it in summer?)"
+
+IF "namber-shoes" = ? AND "resut" = ? THEN "namber-shoes" = "ВОПРОС (how many shoes?)"
+
+IF "level-work" = ? AND "resut" = ? AND "winer" = "YES" AND "summer" = "YES" THEN "level-work = hard"
+
+IF "level-work" = ? AND "resut" = ? AND "winer" = "NO" AND "summer" = "NO" THEN "level-work = easy"
+IF "level-work" = ? AND "resut" = ? AND "winer" = "YES" AND "summer" = "NO" THEN "level-work = easy"
+IF "level-work" = ? AND "resut" = ? AND "winer" = "NO" AND "summer" = "YES" THEN "level-work = easy"
+
+IF "type" = ? AND "resut" = ? AND "level-work" = "hard" AND "need-sneakers" = "YES" THEN "type = sports"
+IF "type" = ? AND "resut" = ? AND "level-work" = "easy" AND "need-sneakers" = "NO" THEN "type = norm"
+
+
+IF "level" = ? AND "resut" = ? AND "namber-shoes" = ">10" = "YES" THEN "level = expert"
+IF "level" = ? AND "resut" = ? AND "namber-shoes" = "<10" = "YES" THEN "level = noob"
+
+
+
+IF  "type" = "spors" AND "budget" = "<5000Р" AND "level" = "noob" THEN "resut" = "You should buy Demix Fluid Plus (3 000Р)"
+IF  "type" = "norm" AND "budget" = ">5000Р" AND "level" = "expert" AND "winner" = "YES" THEN "resut" = "You should buy ROBERTO BOTTICELLI (30 000Р)"
+IF  "type" = "norm" AND "budget" = "<5000Р" THEN "resut" = "You should buy Patrol (3 000Р)"
+IF  "type" = "sports" AND "budget" = ">5000Р" THEN "resut" = "You should buy HOKA ONE Bondi X (27 000Р)"
+IF  "type" = "norm" AND "budget" = ">5000Р" AND "level" = "expert" AND "winner" = "YES" THEN "resut" = "You should buy TIMBERLAND ICONS(25 000Р)"
+IF  "budget" = ">5000Р" AND "level" = "expert" THEN "resut" = "You should buy Adidas Yeezy Boost 350 (15 000Р)"
+IF  "budget" = "<5000Р" AND "level" = "noob" THEN "resut" = "You should buy Nike Air Monarch IV (4 000Р)"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
