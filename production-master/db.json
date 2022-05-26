@@ -1,0 +1,206 @@
+{
+  "items": [
+    {
+      "name": "Цена больше 10 000",
+      "answer": " ?"
+    },
+    {
+      "name": "Только для звонков и смс",
+      "answer": " ?",
+      "reasons": "!0"
+    },
+    {
+      "name": "Камера для фотосьемки",
+      "answer": " ?",
+      "reasons": "0"
+    },
+    {
+      "name": "Игровая модель",
+      "answer": " ?",
+      "reasons": "!2"
+    },
+    {
+      "name": "Металлический корпус",
+      "answer": " ?",
+      "reasons": "3"
+    },
+    {
+      "name": "Модель этого года",
+      "answer": " ?",
+      "reasons": "2"
+    },
+    {
+      "name": "Память \u003e 70гб",
+      "answer": " ?",
+      "reasons": "5"
+    },
+    {
+      "name": "Классический дизайн",
+      "answer": " ?",
+      "reasons": "!6"
+    },
+    {
+      "name": "Минимальная цена модели",
+      "answer": " ?",
+      "reasons": "1"
+    },
+    {
+      "name": "Черно-белый дисплей",
+      "answer": " ?",
+      "reasons": "!8"
+    },
+    {
+      "name": "Раскладная модель",
+      "answer": " ?",
+      "reasons": "!9"
+    },
+    {
+      "name": "2 симкарты",
+      "answer": " ?",
+      "reasons": "!1"
+    },
+    {
+      "name": "Большой объем аккумулятора",
+      "answer": " ?",
+      "reasons": "11"
+    },
+    {
+      "name": "Наличие радио",
+      "answer": " ?",
+      "reasons": "!11"
+    },
+    {
+      "name": "Гарантия от 2 лет",
+      "answer": " ?",
+      "reasons": "13"
+    },
+    {
+      "name": "honor 20 pro 256gb / price: 35 000",
+      "reasons": "4"
+    },
+    {
+      "name": "iphone 5 64gb/ price: 18 390",
+      "reasons": "!4"
+    },
+    {
+      "name": "asus zenfone max m2 64gb/ price: 12 990",
+      "reasons": "!3"
+    },
+    {
+      "name": "iphone 7 32gb / price: 29 999",
+      "reasons": "!5"
+    },
+    {
+      "name": "iphone 11 128gb / price: 64 999",
+      "reasons": "6"
+    },
+    {
+      "name": "iphone 11 (black color) 64gb / price: 59 999",
+      "reasons": "7"
+    },
+    {
+      "name": "iphone 11 (red color) 64gb / price: 59 999",
+      "reasons": "!7"
+    },
+    {
+      "name": "digma linx a 105 2g / price: 400",
+      "reasons": "8"
+    },
+    {
+      "name": "dexp c 181 / price: 750",
+      "reasons": "9"
+    },
+    {
+      "name": "digma linx a250 / price: 820",
+      "reasons": "10"
+    },
+    {
+      "name": "irbis sf / price: 690",
+      "reasons": "!10"
+    },
+    {
+      "name": "joys sl / price: 499",
+      "reasons": "!12"
+    },
+    {
+      "name": "dexp larus f2 / price: 1250",
+      "reasons": "12"
+    },
+    {
+      "name": "finepower sp231 / price: 1499",
+      "reasons": "!13"
+    },
+    {
+      "name": "nobby 330t / price: 1399",
+      "reasons": "!14"
+    },
+    {
+      "name": "texet tm 121 / price: 1100",
+      "reasons": "14"
+    },
+    {
+      "name": "honor 21 pro 256gb / price: 35 000",
+      "reasons": "41"
+    },
+    {
+      "name": "iphone 6 64gb/ price: 18 390",
+      "reasons": "!41"
+    },
+    {
+      "name": "asus zenfone max m3 64gb/ price: 12 990",
+      "reasons": "!31"
+    },
+    {
+      "name": "iphone 8 32gb / price: 29 999",
+      "reasons": "!51"
+    },
+    {
+      "name": "iphone 12 128gb / price: 64 999",
+      "reasons": "61"
+    },
+    {
+      "name": "iphone 12 (black color) 64gb / price: 59 999",
+      "reasons": "71"
+    },
+    {
+      "name": "iphone 12 (red color) 64gb / price: 59 999",
+      "reasons": "!71"
+    },
+    {
+      "name": "digma linx a 101 2g / price: 400",
+      "reasons": "81"
+    },
+    {
+      "name": "dexp b 181 / price: 750",
+      "reasons": "91"
+    },
+    {
+      "name": "digma linx s250 / price: 820",
+      "reasons": "101"
+    },
+    {
+      "name": "irbis qf / price: 690",
+      "reasons": "!101"
+    },
+    {
+      "name": "joys s8 / price: 499",
+      "reasons": "!121"
+    },
+    {
+      "name": "dexp larus q2 / price: 1250",
+      "reasons": "121"
+    },
+    {
+      "name": "finepower sa231 / price: 1499",
+      "reasons": "!131"
+    },
+    {
+      "name": "nobby 350t / price: 1399",
+      "reasons": "!141"
+    },
+    {
+      "name": "texet tr 121 / price: 1100",
+      "reasons": "141"
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<defrules>
+    <defrule name="need_sneakersDefrule" question="do you need sneakers? (да/нет)" validAnswers="да,нет">
+    </defrule>
+
+    <defrule name="budgetDefrule" question="your budget? (больше_5000/меньше_5000)" validAnswers="больше_5000,меньше_5000">
+    </defrule>
+
+    <defrule name="winterDefrule" question="will you wear it in winter? (да/нет)" validAnswers="да,нет">
+    </defrule>
+
+    <defrule name="summerDefrule" question="will you wear it in summer? (да/нет)" validAnswers="да,нет">
+    </defrule>
+
+    <defrule name="namber_shoesDefrule" question="how many shoes? (больше_10/меньше_10)" validAnswers="больше_10,меньше_10">
+    </defrule>
+   
+    <defrule name="workload_level_hardDefrule">
+        <premise name="winter" value="да" />
+		<premise name="summer" value="да" />
+    </defrule>
+	
+	 <defrule name="workload_level_easyDefrule">
+        <premise name="winter" value="нет" />
+		<premise name="summer" value="нет" />
+    </defrule>
+	
+	<defrule name="workload_level_easyDefrule">
+        <premise name="winter" value="да" />
+		<premise name="summer" value="нет" />
+    </defrule>
+
+	<defrule name="workload_level_easyDefrule">
+        <premise name="winter" value="нет" />
+		<premise name="summer" value="да" />
+    </defrule>
+
+    <defrule name="load_type_sportsDefrule">
+        <premise name="workload_level_hard" value="да" />
+		<premise name="need_sneakers" value="да" />
+    </defrule>
+
+    <defrule name="load_type_normDefrule">
+        <premise name="workload_level_easy" value="да" />
+        <premise name="need_sneakers" value="нет" />
+    </defrule>
+
+    <defrule name="level_expertDefrule">
+        <premise name="namber_shoes" value="больше_10" />
+    </defrule>
+
+    <defrule name="level_noobDefrule">
+        <premise name="namber_shoes" value="меньше_10" />
+    </defrule>
+
+    
+    <!-- Patrol Boots (3000R) -->
+    <defrule name="СпортDefrule" univName="Patrol Boots (3000R)">
+        <premise name="load_type_norm" value="да" />
+        <premise name="budget" value="меньше_5000" />
+    </defrule>
+
+    <!-- ROBERTO BOTTICELLI (30 000Р) -->
+    <defrule name="СпортDefrule" univName="ROBERTO BOTTICELLI (30 000Р)">
+        <premise name="load_type_norm" value="да" />
+        <premise name="budget" value="больше_5000" />
+		<premise name="level_expert" value="да" />
+		<premise name="winter" value="нет" />
+    </defrule>
+    
+    <!-- Demix Fluid Plus (3 000Р) -->
+    <defrule name="СпортDefrule" univName="Demix Fluid Plus (3 000Р)">
+        <premise name="load_type_sports" value="да" />
+        <premise name="budget" value="меньше_5000" />
+        <premise name="level_нетob" value="да" />
+    </defrule>
+
+    <!-- HOKA ONE Bondi X (27 000Р) -->
+    <defrule name="СпортDefrule" univName="HOKA ONE Bondi X (27 000Р)">
+        <premise name="load_type_sports" value="да" />
+        <premise name="budget" value="больше_5000" />
+    </defrule>
+
+    <!-- TIMBERLAND ICONS(25 000R) -->
+    <defrule name="СпортDefrule" univName="TIMBERLAND ICONS(25 000R)">
+        <premise name="winter" value="да" />
+		 <premise name="load_type_norm" value="да" />
+		 <premise name="budget" value="больше_5000" />
+		<premise name="level_expert" value="да" />
+    </defrule>
+
+    <!-- Adidas Yeezy Boost 350 (15 000R) -->
+    <defrule name="СпортDefrule" univName="Adidas Yeezy Boost 350 (15 000R)">
+		<premise name="budget" value="больше_5000" />
+		<premise name="level_expert" value="да" />
+    </defrule>
+
+    <!-- Nike Air Monarch IV (4 000R) -->
+    <defrule name="СпортDefrule" univName="Nike Air Monarch IV (4 000R)">
+        <premise name="level_noob" value="да" />
+        <premise name="budget" value="меньше_5000" />
+    </defrule>
+</defrules>
