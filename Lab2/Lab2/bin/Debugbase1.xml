@@ -72,7 +72,7 @@
     <defrule name="shoesDefrule" univName="Demix Fluid Plus (3 000Р)">
         <premise name="load_type_sports" value="да" />
         <premise name="budget" value="меньше_5000" />
-        <premise name="level_нетob" value="да" />
+        <premise name="level_noob" value="да" />
     </defrule>
 
     <!-- HOKA ONE Bondi X (27 000Р) -->
