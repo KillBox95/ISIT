@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ConsoleApp4_Borda
+build_property.ProjectDir = F:\УЧЕБА!\Лето 2022\ИСИТ\L4\ConsoleApp4_Borda\ConsoleApp4_Borda\

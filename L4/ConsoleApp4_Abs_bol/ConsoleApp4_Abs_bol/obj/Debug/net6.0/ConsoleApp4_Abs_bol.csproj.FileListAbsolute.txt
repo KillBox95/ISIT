@@ -1,0 +1,15 @@
+F:\УЧЕБА!\Лето 2022\ИСИТ\L4\ConsoleApp4_Abs_bol\ConsoleApp4_Abs_bol\bin\Debug\net6.0\ConsoleApp4_Abs_bol.exe
+F:\УЧЕБА!\Лето 2022\ИСИТ\L4\ConsoleApp4_Abs_bol\ConsoleApp4_Abs_bol\bin\Debug\net6.0\ConsoleApp4_Abs_bol.deps.json
+F:\УЧЕБА!\Лето 2022\ИСИТ\L4\ConsoleApp4_Abs_bol\ConsoleApp4_Abs_bol\bin\Debug\net6.0\ConsoleApp4_Abs_bol.runtimeconfig.json
+F:\УЧЕБА!\Лето 2022\ИСИТ\L4\ConsoleApp4_Abs_bol\ConsoleApp4_Abs_bol\bin\Debug\net6.0\ConsoleApp4_Abs_bol.dll
+F:\УЧЕБА!\Лето 2022\ИСИТ\L4\ConsoleApp4_Abs_bol\ConsoleApp4_Abs_bol\bin\Debug\net6.0\ConsoleApp4_Abs_bol.pdb
+F:\УЧЕБА!\Лето 2022\ИСИТ\L4\ConsoleApp4_Abs_bol\ConsoleApp4_Abs_bol\obj\Debug\net6.0\ConsoleApp4_Abs_bol.csproj.AssemblyReference.cache
+F:\УЧЕБА!\Лето 2022\ИСИТ\L4\ConsoleApp4_Abs_bol\ConsoleApp4_Abs_bol\obj\Debug\net6.0\ConsoleApp4_Abs_bol.GeneratedMSBuildEditorConfig.editorconfig
+F:\УЧЕБА!\Лето 2022\ИСИТ\L4\ConsoleApp4_Abs_bol\ConsoleApp4_Abs_bol\obj\Debug\net6.0\ConsoleApp4_Abs_bol.AssemblyInfoInputs.cache
+F:\УЧЕБА!\Лето 2022\ИСИТ\L4\ConsoleApp4_Abs_bol\ConsoleApp4_Abs_bol\obj\Debug\net6.0\ConsoleApp4_Abs_bol.AssemblyInfo.cs
+F:\УЧЕБА!\Лето 2022\ИСИТ\L4\ConsoleApp4_Abs_bol\ConsoleApp4_Abs_bol\obj\Debug\net6.0\ConsoleApp4_Abs_bol.csproj.CoreCompileInputs.cache
+F:\УЧЕБА!\Лето 2022\ИСИТ\L4\ConsoleApp4_Abs_bol\ConsoleApp4_Abs_bol\obj\Debug\net6.0\ConsoleApp4_Abs_bol.dll
+F:\УЧЕБА!\Лето 2022\ИСИТ\L4\ConsoleApp4_Abs_bol\ConsoleApp4_Abs_bol\obj\Debug\net6.0\ref\ConsoleApp4_Abs_bol.dll
+F:\УЧЕБА!\Лето 2022\ИСИТ\L4\ConsoleApp4_Abs_bol\ConsoleApp4_Abs_bol\obj\Debug\net6.0\ConsoleApp4_Abs_bol.pdb
+F:\УЧЕБА!\Лето 2022\ИСИТ\L4\ConsoleApp4_Abs_bol\ConsoleApp4_Abs_bol\obj\Debug\net6.0\ConsoleApp4_Abs_bol.genruntimeconfig.cache
+F:\УЧЕБА!\Лето 2022\ИСИТ\L4\ConsoleApp4_Abs_bol\ConsoleApp4_Abs_bol\obj\Debug\net6.0\refint\ConsoleApp4_Abs_bol.dll

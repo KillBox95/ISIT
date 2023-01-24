@@ -1,0 +1,15 @@
+F:\УЧЕБА!\Лето 2022\ИСИТ\L4\ConsoleApp4_Borda\ConsoleApp4_Borda\bin\Debug\net6.0\ConsoleApp4_Borda.exe
+F:\УЧЕБА!\Лето 2022\ИСИТ\L4\ConsoleApp4_Borda\ConsoleApp4_Borda\bin\Debug\net6.0\ConsoleApp4_Borda.deps.json
+F:\УЧЕБА!\Лето 2022\ИСИТ\L4\ConsoleApp4_Borda\ConsoleApp4_Borda\bin\Debug\net6.0\ConsoleApp4_Borda.runtimeconfig.json
+F:\УЧЕБА!\Лето 2022\ИСИТ\L4\ConsoleApp4_Borda\ConsoleApp4_Borda\bin\Debug\net6.0\ConsoleApp4_Borda.dll
+F:\УЧЕБА!\Лето 2022\ИСИТ\L4\ConsoleApp4_Borda\ConsoleApp4_Borda\bin\Debug\net6.0\ref\ConsoleApp4_Borda.dll
+F:\УЧЕБА!\Лето 2022\ИСИТ\L4\ConsoleApp4_Borda\ConsoleApp4_Borda\bin\Debug\net6.0\ConsoleApp4_Borda.pdb
+F:\УЧЕБА!\Лето 2022\ИСИТ\L4\ConsoleApp4_Borda\ConsoleApp4_Borda\obj\Debug\net6.0\ConsoleApp4_Borda.csproj.AssemblyReference.cache
+F:\УЧЕБА!\Лето 2022\ИСИТ\L4\ConsoleApp4_Borda\ConsoleApp4_Borda\obj\Debug\net6.0\ConsoleApp4_Borda.GeneratedMSBuildEditorConfig.editorconfig
+F:\УЧЕБА!\Лето 2022\ИСИТ\L4\ConsoleApp4_Borda\ConsoleApp4_Borda\obj\Debug\net6.0\ConsoleApp4_Borda.AssemblyInfoInputs.cache
+F:\УЧЕБА!\Лето 2022\ИСИТ\L4\ConsoleApp4_Borda\ConsoleApp4_Borda\obj\Debug\net6.0\ConsoleApp4_Borda.AssemblyInfo.cs
+F:\УЧЕБА!\Лето 2022\ИСИТ\L4\ConsoleApp4_Borda\ConsoleApp4_Borda\obj\Debug\net6.0\ConsoleApp4_Borda.csproj.CoreCompileInputs.cache
+F:\УЧЕБА!\Лето 2022\ИСИТ\L4\ConsoleApp4_Borda\ConsoleApp4_Borda\obj\Debug\net6.0\ConsoleApp4_Borda.dll
+F:\УЧЕБА!\Лето 2022\ИСИТ\L4\ConsoleApp4_Borda\ConsoleApp4_Borda\obj\Debug\net6.0\ref\ConsoleApp4_Borda.dll
+F:\УЧЕБА!\Лето 2022\ИСИТ\L4\ConsoleApp4_Borda\ConsoleApp4_Borda\obj\Debug\net6.0\ConsoleApp4_Borda.pdb
+F:\УЧЕБА!\Лето 2022\ИСИТ\L4\ConsoleApp4_Borda\ConsoleApp4_Borda\obj\Debug\net6.0\ConsoleApp4_Borda.genruntimeconfig.cache
